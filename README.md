@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Ming</h1>
-
-<h3 align="center">Web & Android Developer</h3>
+<h3 align="center">Fullstack Web & Android Programmer</h3>
 
 ---
 
@@ -12,39 +11,18 @@ Currently working with technologies across full-stack and mobile development.
 
 ### 🛠️ Tech Stack
 
-#### **Frontend**
-- **React**
-- **Angular**
-- **TypeScript**
-- **Flutter (Android/iOS)**
+#### Frontend
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000)
+![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 
-#### **Backend**
-- **Node.js**
-- **Express.js**
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
 
-#### **Databases**
-- **MongoDB**
-- **SQL (MySQL / SQL Server)**
-
----
-
-### 📈 What I'm Working On
-- Building enterprise internal systems  
-- Improving performance & UX for large-scale data apps  
-- Full-stack learning path toward **Senior Developer → Tech Lead**  
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff)
 
 ---
-
-### 📫 Contact
-- GitHub: *this profile*  
-- (Add your email or LinkedIn here ถ้าอยากใส่)  
-
----
-
-### ⭐ Fun Fact
-Some days I’m like a lone wolf 🐺, some days a social cat 🐱 — depends on the vibe.
-
----
-
-### 🤝 Thanks for visiting!
-If you like what you see, feel free to ⭐ some of my repos!
